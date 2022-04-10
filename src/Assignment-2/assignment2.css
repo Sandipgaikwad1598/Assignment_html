@@ -5,3 +5,23 @@
 width: 100%;
 height: 100%;
 }
+header{
+    border: 1px solid navy;
+    width: 100%;
+    height: 70px;
+}
+.search
+{
+    float: right;
+    /* margin-bottom: 10px; */
+}
+nav{
+    border: 1px solid black;
+    width: 98%;
+    height: 50px;
+
+}
+li{
+    text-align: center;
+    text-decoration: none;
+}
