@@ -49,6 +49,7 @@ nav{
     list-style: none;
     width: 130px;
     /* display: inline-block; */
+    
     border: 1px solid red;
 
 }
