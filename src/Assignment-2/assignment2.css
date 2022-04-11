@@ -5,3 +5,60 @@
 width: 100%;
 height: 100%;
 }
+header{
+    border: 1px solid navy;
+    width: 100%;
+    height: 70px;
+}
+.search
+{
+    float: right;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+nav{
+    border: 1px solid black;
+    width: 99%;
+    height: 50px;
+    
+
+}
+.contier{
+    width: 100%;
+    border: 1px solid red;
+    /* margin: 5px ; */
+}
+.logo{
+    padding-top: 3px;
+    padding-left: 10px;
+    float: left;
+}
+.ul{
+   /* text-align: center; */
+   /* padding: 30px; */
+   list-style: none;
+}
+.ul_nav{
+    padding: 80px;
+}
+.aside-rigth,.image,.aside-left{
+    list-style: none;
+    display: inline-block;
+}
+.aside-left{
+    list-style: none;
+    width: 130px;
+    /* display: inline-block; */
+    border: 1px solid red;
+
+}
+.aside-rigth{
+    border: 1px solid red;
+    float: right;
+    width: 150px;
+    height: 400px;
+}
+aside ul li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
